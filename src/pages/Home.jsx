@@ -149,11 +149,11 @@ const Home = () => {
             </h2>
             <p className="max-w-xl mt-4 text-[#bfc9d8]">
               Today, millions of people around the world have successfully
-              connected their accounts to apps they love using our API.
+              connected their accounts to apps they love using our API. 
             </p>
 
             <button className="mt-10 px-6 py-3 cursor-pointer rounded-4xl sm:rounded-xl bg-transparent border border-white hover:bg-white hover:text-[#0d1b2a] duration-300">
-              <NavLink to={"/about"}>About Us</NavLink>
+              <NavLink to={"/about"}>About Us</NavLink> 
             </button>
           </div>
 
