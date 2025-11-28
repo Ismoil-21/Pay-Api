@@ -83,7 +83,7 @@ const Home = () => {
   }
 
   return (
-    <div className="font-sans bg-[#F4F7FA] text-[#1b263b]">
+    <div className="font-sans text-[#1b263b]">
       <section className="px-5 py-10 text-center sm:text-center md:text-start justfify-center sm:justify-center md:justify-around items-center sm:max-w-7xl sm:mx-auto sm:px-6 sm:py-20 sm:flex-wrap md:flex">
         <div>
           <h1 className="text-[29px] sm:text-4xl md:text-5xl font-bold text-[#36536B]">
