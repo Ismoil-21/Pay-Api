@@ -111,7 +111,7 @@ const Header = () => {
         <NavLink
           className={({ isActive }) =>
             isActive
-              ? "text-white bg-[#120e3f] border-2 border-[#000000] rounded-2xl py-2"
+              ? "text-white bg-[#2b1cca] border-2 border-blue-400 rounded-2xl py-2"
               : "text-white border border-black rounded-2xl py-2"
           }
           to="/pricing"
@@ -123,7 +123,7 @@ const Header = () => {
         <NavLink
           className={({ isActive }) =>
             isActive
-              ? "text-white bg-[#120e3f] border-2 border-[#000000] rounded-2xl py-2"
+              ? "text-white bg-[#2b1cca] border-2 border-blue-400 rounded-2xl py-2"
               : "text-white border border-black rounded-2xl py-2"
           }
           to="/about"
@@ -135,7 +135,7 @@ const Header = () => {
         <NavLink
           className={({ isActive }) =>
             isActive
-              ? "text-white bg-[#120e3f] border-2 border-[#000000] rounded-2xl py-2"
+              ? "text-white bg-[#2b1cca] border-2 border-blue-400 rounded-2xl py-2"
               : "text-white border border-black rounded-2xl py-2"
           }
           to="/contact"
